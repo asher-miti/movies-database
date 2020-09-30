@@ -14,19 +14,19 @@ export const SidebarData = [
   },
   {
     title: "Trending",
-    path: "/",
+    path: "/trending",
     icon: <FiIcons.FiTrendingUp />,
     cName: "nav-text",
   },
   {
     title: "Coming Soon",
-    path: "/",
+    path: "/comingsoon",
     icon: <CgIcons.CgCalendarNext />,
     cName: "nav-text",
   },
   {
     title: "Favourites",
-    path: "/",
+    path: "/favourites",
     icon: <MdIcons.MdFavorite />,
     cName: "nav-text",
   },
